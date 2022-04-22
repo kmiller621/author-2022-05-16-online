@@ -1,11 +1,11 @@
 
 # Author Carpentry Workshop                 
-https://doi.org/10.7907/Z96H4FFZ
 |Location| Date |Time |Instructor|Helpers|
 |--|--|--|--|--|
 | Online at National Institute of Standards and Technology (NIST)|  May 16-17, 2022|2:30-4:30 EDT (12:30-2:30 MDT)|Kathryn Miller|Regina Avila, Ian Bell, Andrea Medina-Smith|
 
 ## General Information
+<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 Author Carpentry is a researcher-to-researcher training and outreach program in
 open authoring and publishing, scholarly identity and reputation, and research
 impact. Inspired by the [Modern Scientific
@@ -14,7 +14,7 @@ proposed by Software Carpentry founder Greg Wilson, Author Carpentry was
 envisioned by founder Gail Peretsman-Clement to complement and extend the 
 research pipelines covered in Software and Data Carpentry. Author Carpentry 
 picks up the "last mile" of the research process: writing, reporting, review, 
-dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
+dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration above).
 
 **Who:**  The course is for people responsible for authoring or publishing scholarly content. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
 
@@ -52,7 +52,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 |4:30|END|
 
 ## Topics covered in Author Carpentry 
-<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
+
 * Scientific writing in useful, powerful, and open mark-up languages such as LaTeX and Markdown 
 * Formulating and managing citation data, publication lists, and bibliographies in open formats such as BiBTeX, JSON, XML and using open source reference management tools such as JabRef and Zotero
 * Transforming metadata documenting research outputs into open plain text formats for easy reuse in research information systems in support of funder compliance mandates and institutional reporting
