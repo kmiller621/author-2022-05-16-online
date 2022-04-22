@@ -23,13 +23,16 @@
 <a href="/lessons.html">Lessons</a>
 </li>
 <li>
-<a href="https://github.com/AuthorCarpentry/planning/issues">Suggest a Lesson</a>
+<a href="https://github.com/AuthorCarpentry/planning/issues">Suggest a
+Lesson</a>
 </li>
 <li>
 <a href="/for-instructors.html">For Instructors</a>
 </li>
 <li>
-<a href="https://groups.google.com/forum/#!forum/authorcarpentry/join">Mailing List</a>
+<a
+href="https://groups.google.com/forum/#!forum/authorcarpentry/join">Mailing
+List</a>
 </li>
 <li>
 <a href="https://twitter.com/authorcarpentry">Twitter</a>
@@ -42,7 +45,10 @@
 How to build this website
 </h1>
 <p>
-These are instructions for generate <a href="https://caltechlibrary.github.io/AuthorCarpentry">caltechlibrary.github.io/AuthorCarpentry</a> website. This is includes content in the <a href="CODATA-RDA/">CODATA-RDA</a> folder.
+These are instructions for generate <a
+href="https://caltechlibrary.github.io/AuthorCarpentry">caltechlibrary.github.io/AuthorCarpentry</a>
+website. This is includes content in the <a
+href="CODATA-RDA/">CODATA-RDA</a> folder.
 </p>
 <h2 id="one-time-setup">
 One time setup
@@ -51,34 +57,44 @@ One time setup
 Prerequisites
 </h3>
 <p>
-This website is built using several command line tools developed at Caltech. They are
+This website is built using several command line tools developed at
+Caltech. They are
 </p>
 <ul>
 <li>
-<a href="https://caltechlibrary.github.io/mkpage">mkpage</a> version 1.0 or later - renders the website from Markdown files using template page.tmpl
+<a href="https://caltechlibrary.github.io/mkpage">mkpage</a> version 1.0
+or later - renders the website from Markdown files using template
+page.tmpl
 <ul>
 <li>
-<a href="https://caltechlibrary.github.io/mkpage/install.html">installation instructions</a>
+<a
+href="https://caltechlibrary.github.io/mkpage/install.html">installation
+instructions</a>
 </li>
 </ul>
 </li>
 <li>
-<a href="https://caltechlibrary.github.io/ws">ws</a> - (optional) is a static web server you can use to view your site while you’re writing it
+<a href="https://caltechlibrary.github.io/ws">ws</a> - (optional) is a
+static web server you can use to view your site while you’re writing it
 <ul>
 <li>
-<a href="https://caltechlibrary.github.io/ws/install.html">installation instructions</a>
+<a
+href="https://caltechlibrary.github.io/ws/install.html">installation
+instructions</a>
 </li>
 </ul>
 </li>
 </ul>
 <p>
-Installation instructions for these utilities are available for Mac OS X, Windows 10, Ubuntu/Linux and Raspbian/Linux operating systems.
+Installation instructions for these utilities are available for Mac OS
+X, Windows 10, Ubuntu/Linux and Raspbian/Linux operating systems.
 </p>
 <h3 id="on-windows">
 On Windows
 </h3>
 <p>
-If you are on a Windows machine running Bash that comes with Git clone this repository
+If you are on a Windows machine running Bash that comes with Git clone
+this repository
 </p>
 <ul>
 <li>
@@ -101,7 +117,9 @@ These are the command I’d enter in Bash
     cd AuthorCarpentry
     ./mk-website.bash</code></pre>
 <p>
-You should now be able run the <a href="https://caltechlibrary.github.io/mkpage">mkpage</a> command using the <em>./mk-website.bash</em> script should work.
+You should now be able run the <a
+href="https://caltechlibrary.github.io/mkpage">mkpage</a> command using
+the <em>./mk-website.bash</em> script should work.
 </p>
 <h3 id="on-a-mac">
 On a Mac
@@ -127,20 +145,25 @@ These are the command I enter after starting Terminal
     cd AuthorCarpentry
     ./mk-website.bash</code></pre>
 <p>
-You should now be able run the <a href="https://caltechlibrary.github.io/mkpage">mkpage</a> command and the <em>./mk-website.bash</em> script should work.
+You should now be able run the <a
+href="https://caltechlibrary.github.io/mkpage">mkpage</a> command and
+the <em>./mk-website.bash</em> script should work.
 </p>
 <hr />
 <h2 id="on-going-work">
 On going work
 </h2>
 <p>
-Once you have your repositories cloned on going authoring is a little easier. When you start your Bash session you source the appropriate setup file and then you can get to work.
+Once you have your repositories cloned on going authoring is a little
+easier. When you start your Bash session you source the appropriate
+setup file and then you can get to work.
 </p>
 <h3 id="workflow-for-mac-windows-and-linux">
 Workflow for Mac, Windows and Linux
 </h3>
 <p>
-You need to let Bash know where to find <em>shorthand</em>. The easiest way is
+You need to let Bash know where to find <em>shorthand</em>. The easiest
+way is
 </p>
 <ol type="1">
 <li>
@@ -174,10 +197,12 @@ run
 check the HTML (e.g. view them in your web browser)
 <ul>
 <li>
-the <a href="https://caltechlibrary.github.io/ws">ws</a> web server is a convient way to make this happen
+the <a href="https://caltechlibrary.github.io/ws">ws</a> web server is a
+convient way to make this happen
 </li>
 <li>
-you can also just do a “file open” from your web browser on the individual HTML files
+you can also just do a “file open” from your web browser on the
+individual HTML files
 </li>
 </ul>
 </li>
@@ -194,10 +219,15 @@ repeat steps as needed
 </li>
 </ul>
 <p>
-When you have the site the way you want it you can run the <code>./publish.bash</code> script. This copies updates the contents of the <em>gh-pages</em> branch based on the current <em>master</em> branch.
+When you have the site the way you want it you can run the
+<code>./publish.bash</code> script. This copies updates the contents of
+the <em>gh-pages</em> branch based on the current <em>master</em>
+branch.
 </p>
 <p>
-If you’ve forked the AuthorCarpentry repository from https://github.com/caltechlibrary/AuthorCarpentry you can submit a pull request.
+If you’ve forked the AuthorCarpentry repository from
+https://github.com/caltechlibrary/AuthorCarpentry you can submit a pull
+request.
 </p>
 <h4 id="workflow-steps">
 Workflow steps
@@ -207,7 +237,8 @@ Workflow steps
 Create, write and edit your content in Markdown files
 </li>
 <li>
-For each level of the website you can customize the navigation links in <em>nav.md</em> as need
+For each level of the website you can customize the navigation links in
+<em>nav.md</em> as need
 <ul>
 <li>
 e.g. add additional links to pages or lessons
@@ -215,7 +246,9 @@ e.g. add additional links to pages or lessons
 </ul>
 </li>
 <li>
-In the root of your repository directory run <code>./mk-website.bash</code> to re-generate all the HTML content from your markdown
+In the root of your repository directory run
+<code>./mk-website.bash</code> to re-generate all the HTML content from
+your markdown
 </li>
 <li>
 Check the HTML versions and see if they are what you like
@@ -248,10 +281,25 @@ When you’re ready to publish run the publish script
 How it works
 </h2>
 <p>
-The website is being generated using a tool call <a href="https://caltechlibrary.github.io/mkpage">mkpage</a>. It renders plain text, Markdown and JSON using a simple template engine developed at Google. Typical you need very few templates to build a website (this site needed only one). Layout is controlled from CSS as well as the markup in your template. <em>mkpage</em> is very friendly to Bash scripts and <code>./mk-website.bash</code> is a good example of using a <em>mkpage</em> and common Unix command in a simple Bash script to render a multi-directory website.
+The website is being generated using a tool call <a
+href="https://caltechlibrary.github.io/mkpage">mkpage</a>. It renders
+plain text, Markdown and JSON using a simple template engine developed
+at Google. Typical you need very few templates to build a website (this
+site needed only one). Layout is controlled from CSS as well as the
+markup in your template. <em>mkpage</em> is very friendly to Bash
+scripts and <code>./mk-website.bash</code> is a good example of using a
+<em>mkpage</em> and common Unix command in a simple Bash script to
+render a multi-directory website.
 </p>
 <p>
-When you commit and push your changes to Github’s gh-pages branch then your website hosted at Github updates. This lets you iterate easily working on the website without disruption to the public. When everything checks out the way you want, push your changes to the <em>master</em> branch, pull <em>master</em> into the <em>gh-pages</em> branch and push those up to Github’s <em>gh-pages</em> branch. There is an easy to use script call <code>./publish.bash</code> so you don’t have to remember those details.
+When you commit and push your changes to Github’s gh-pages branch then
+your website hosted at Github updates. This lets you iterate easily
+working on the website without disruption to the public. When everything
+checks out the way you want, push your changes to the <em>master</em>
+branch, pull <em>master</em> into the <em>gh-pages</em> branch and push
+those up to Github’s <em>gh-pages</em> branch. There is an easy to use
+script call <code>./publish.bash</code> so you don’t have to remember
+those details.
 </p>
 </section>
 
