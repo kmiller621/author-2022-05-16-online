@@ -1,6 +1,12 @@
-# Author Carpentry                
-https://doi.org/10.7907/Z96H4FFZ
 
+# Author Carpentry Workshop                 
+https://doi.org/10.7907/Z96H4FFZ
+|Location| Date |Time |Instructor|Helpers|
+|--|--|--|--|--|
+| Online at National Institute of Standards and Technology (NIST)|  May 16-17, 2022|2:30-4:30 EDT (12:30-2:30 MDT)|Kathryn Miller|Regina Avila, Ian Bell, Andrea Medina-Smith|
+
+## General Information
+<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 Author Carpentry is a researcher-to-researcher training and outreach program in
 open authoring and publishing, scholarly identity and reputation, and research
 impact. Inspired by the [Modern Scientific
@@ -9,13 +15,25 @@ proposed by Software Carpentry founder Greg Wilson, Author Carpentry was
 envisioned by founder Gail Peretsman-Clement to complement and extend the 
 research pipelines covered in Software and Data Carpentry. Author Carpentry 
 picks up the "last mile" of the research process: writing, reporting, review, 
-dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
+dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).  
+
+**Who:**  The course is for people responsible for authoring or publishing scholarly content. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
+
+**Where:**  This training will take place online.  [Please register in advance](https://forms.gle/UcRHrtVfCUUgypJe9). The instructors will provide you with the information you will need to connect to this meeting.
+
+**When:**  May 16-17, 2022.  [Add to your Google Calendar.](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Author%20Carpentry%20Workshop&dates=20220516/20220517&trp=false&sprop&sprop=name:&sf=true&output=xml&location=online&details=Author%20Carpentry%20Workshop%20at%20National%20Institute%20of%20Standards%20and%20Technology%20(NIST))
+
+**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([Day 1](/dois-citation-data/#requirements), [Day 2](/orcid-profile/#requirements)).
+
+**Accessibility:**  We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
+
+**Contact:**  Please email  [kathryn.miller@nist.gov](mailto:kathryn.miller@nist.gov)  for more information.
+
+**Roles:**  To learn more about the roles at the workshop (who will be doing what), refer to  [our Workshop FAQ](https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop).
+
+**Who can attend?:**  This workshop is open to all NIST staff who have  [registered](https://forms.gle/UcRHrtVfCUUgypJe9).
 
 
-<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
-
-## Upcoming Events
-* [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/9097578) June 13, 2022 9-10 AM Pacific
 
 ## Topics covered in Author Carpentry 
 
@@ -35,21 +53,6 @@ dissemination and licensing, impact measurement, and establishing author identit
 We are an open community of scientists, scholars, and librarians with collaborators and participants from around the world. Current Author Carpentry developers and trainers are certified Instructors for Data/Software Carpentry and commit to the instructional approaches, assessment methods, and lesson formatting of the Carpentry community.
 
 Caltech Library serves as the maintenance organization for lessons and planning documentation and maintains all content on the [GitHub site](https://github.com/AuthorCarpentry). 
-
-
-## Why would Librarians be involved in Author Carpentry?
-
-Research librarians have long shared expertise in authoring and publishing with our campus communities, and we have developed considerable expertise in knowledge management principles and practices; instruction and assessment; information ethics and law, responsible conduct of research; and research information systems. Moreover, we share a vision for equal and universal access to information and culture as a basic human right, enthusiastically promoting the goals of the Open Source, Open Science, and Open Access movements. 
-
-The Caltech Library is recasting its instructional program using a 'Carpentry' approach to better meet the needs of successful, time-constrained, and (understandably) often pre-occupied scientists and scholars, while advancing new forms of scholarly communication that improve access, re-use, and replication of scientific claims. The desired outcome is a set of pragmatic, efficient and useful Author Carpentry lessons that can be offered alone as 'tips and tools' sessions; in combination as a half-day or full-day workshop; or as snap-on modules to enhance existing Open Science and Research Data management programs. 
-
-
-## Get Involved
-Author Carpentry is an Open Project and we enthusiastically welcome
-contributions of librarian and other research professionals. Anyone with an
-interest in the material is welcome to take part. The project is being
-co-ordinated by [Tom Morrell](mailto:tmorrell@caltech.edu) at Caltech
-Library. Please get in touch  or register your ideas on the Issues section.
 
 ## Code of Conduct
 All participants should agree to abide by the [Software Carpentry Code of Conduct](https://software-carpentry.org/conduct/).
