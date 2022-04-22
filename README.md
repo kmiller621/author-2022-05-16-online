@@ -5,7 +5,8 @@
 | Online at National Institute of Standards and Technology (NIST)|  May 16-17, 2022|2:30-4:30 EDT (12:30-2:30 MDT)|Kathryn Miller|Regina Avila, Ian Bell, Andrea Medina-Smith|
 
 ## General Information
-<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
+<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">  
+
 Author Carpentry is a researcher-to-researcher training and outreach program in
 open authoring and publishing, scholarly identity and reputation, and research
 impact. Inspired by the [Modern Scientific
