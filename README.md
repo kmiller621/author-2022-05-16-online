@@ -6,7 +6,6 @@ https://doi.org/10.7907/Z96H4FFZ
 | Online at National Institute of Standards and Technology (NIST)|  May 16-17, 2022|2:30-4:30 EDT (12:30-2:30 MDT)|Kathryn Miller|Regina Avila, Ian Bell, Andrea Medina-Smith|
 
 ## General Information
-<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 Author Carpentry is a researcher-to-researcher training and outreach program in
 open authoring and publishing, scholarly identity and reputation, and research
 impact. Inspired by the [Modern Scientific
@@ -15,7 +14,7 @@ proposed by Software Carpentry founder Greg Wilson, Author Carpentry was
 envisioned by founder Gail Peretsman-Clement to complement and extend the 
 research pipelines covered in Software and Data Carpentry. Author Carpentry 
 picks up the "last mile" of the research process: writing, reporting, review, 
-dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).  
+dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
 
 **Who:**  The course is for people responsible for authoring or publishing scholarly content. **You don't need to have any previous knowledge of the tools that will be presented at the workshop.**
 
@@ -23,7 +22,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 **When:**  May 16-17, 2022.  [Add to your Google Calendar.](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Author%20Carpentry%20Workshop&dates=20220516/20220517&trp=false&sprop&sprop=name:&sf=true&output=xml&location=online&details=Author%20Carpentry%20Workshop%20at%20National%20Institute%20of%20Standards%20and%20Technology%20(NIST))
 
-**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([Day 1](/dois-citation-data/#requirements), [Day 2](/orcid-profile/#requirements)).
+**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([DOI](/dois-citation-data/#requirements), [ORCID](/orcid-profile/#requirements), [LaTeX]).
 
 **Accessibility:**  We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 
@@ -33,7 +32,26 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 **Who can attend?:**  This workshop is open to all NIST staff who have  [registered](https://forms.gle/UcRHrtVfCUUgypJe9).
 
+<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 
+## Schedule
+
+### Day 1
+|Time |Lesson |
+|--|--|
+| 2:30 | [Persistent access for research outputs with DOIs](dois-citation-data/00-intro-dois.html) |
+|3:30 |BREAK|
+|3:45 |[Establishing Scholarly Identity with ORCID](orcid-profile/00-orcid-profile.html)|
+|4:30|END|
+
+### Day 2
+
+|Time |Lesson |
+|--|--|
+|2:30|LaTeX: The Basics|
+|3:30|BREAK|
+|3:45|LaTeX: Structured Documents & More|
+|4:30|END|
 
 ## Topics covered in Author Carpentry 
 
