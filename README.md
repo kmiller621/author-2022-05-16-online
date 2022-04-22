@@ -32,8 +32,6 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 **Who can attend?:**  This workshop is open to all NIST staff who have  [registered](https://forms.gle/UcRHrtVfCUUgypJe9).
 
-<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
-
 ## Schedule
 
 ### Day 1
@@ -54,7 +52,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 |4:30|END|
 
 ## Topics covered in Author Carpentry 
-
+<img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 * Scientific writing in useful, powerful, and open mark-up languages such as LaTeX and Markdown 
 * Formulating and managing citation data, publication lists, and bibliographies in open formats such as BiBTeX, JSON, XML and using open source reference management tools such as JabRef and Zotero
 * Transforming metadata documenting research outputs into open plain text formats for easy reuse in research information systems in support of funder compliance mandates and institutional reporting
