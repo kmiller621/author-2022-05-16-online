@@ -3,14 +3,14 @@
 
 | Lesson | Site | Repository | Maintainer(s) |
 | ---------------- |:---: | :----: | ------------- |
-| Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Tom Morrell |
-| Establishing Scholarly Identity with Online Research Contributor Identifiers (ORCID) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Tom Morrell |
+| Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | Tom Morrell |
+| Establishing Scholarly Identity with Online Research Contributor Identifiers (ORCID) | [Site][orcid-profile] | [Repo][orcid-profile2] | Tom Morrell |
 
 #  Introductory course on LaTeX
 
 | Lesson | Site | Repository | Maintainer(s) |
 | ---------------- |:---: | :----: | ------------- |
-| Online introduction to LaTeX | [Part 1][latex-course], [Part 2][latex-coursep2] | [Repo][latex-course2] | | John Lees-Miller |
+| Online introduction to LaTeX | [Part 1][latex-course], [Part 2][latex-coursep2] | [Repo][latex-course2] | John Lees-Miller |
 
 [dois-citation-data]: https://authorcarpentry.github.io/dois-citation-data
 [dois-citation-data2]: https://github.com/authorcarpentry/dois-citation-data
