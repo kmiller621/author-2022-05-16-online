@@ -2,7 +2,7 @@
 # Author Carpentry Workshop                 
 |Location| Date |Time |Instructor|Helpers|
 |--|--|--|--|--|
-| Online at National Institute of Standards and Technology (NIST)|  May 16-17, 2022|2:30-4:30 EDT (12:30-2:30 MDT)|Kathryn Miller|Regina Avila, Ian Bell, Andrea Medina-Smith|
+| Online at National Institute of Standards and Technology (NIST)|  May 16-17, 2022|2:30-4:30 EDT (12:30-2:30 MDT)|Kathryn Miller|Regina Avila and Andrea Medina-Smith (Day 1), Ian Bell and Juan Fung (Day 2)||
 
 ## General Information
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">  
@@ -23,7 +23,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 **When:**  May 16-17, 2022.  [Add to your Google Calendar.](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Author%20Carpentry%20Workshop&dates=20220516/20220517&trp=false&sprop&sprop=name:&sf=true&output=xml&location=online&details=Author%20Carpentry%20Workshop%20at%20National%20Institute%20of%20Standards%20and%20Technology%20(NIST))
 
-**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([DOI](/dois-citation-data/#requirements), [ORCID](/orcid-profile/#requirements), [LaTeX]).
+**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([DOI](https://authorcarpentry.github.io/dois-citation-data/#requirements), [ORCID](https://authorcarpentry.github.io/orcid-profile/#requirements), [LaTeX](/latex.md)).
 
 **Accessibility:**  We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 
@@ -38,18 +38,18 @@ dissemination and licensing, impact measurement, and establishing author identit
 ### Day 1
 |Time |Lesson |
 |--|--|
-| 2:30 | [Persistent access for research outputs with DOIs](dois-citation-data/00-intro-dois.html) |
-|3:30 |BREAK|
-|3:45 |[Establishing Scholarly Identity with ORCID](orcid-profile/00-orcid-profile.html)|
+|2:30PM EDT| [Persistent access for research outputs with DOIs](https://authorcarpentry.github.io/dois-citation-data/) |
+|3:30|BREAK|
+|3:45|[Establishing Scholarly Identity with ORCID](https://authorcarpentry.github.io/orcid-profile/)|
 |4:30|END|
 
 ### Day 2
 
 |Time |Lesson |
 |--|--|
-|2:30|LaTeX: The Basics|
+|2:30PM EDT|[LaTeX: The Basics](https://jdlm.info/latex-course/en/part1.pdf)|
 |3:30|BREAK|
-|3:45|LaTeX: Structured Documents & More|
+|3:45|[LaTeX: Structured Documents & More](https://jdlm.info/latex-course/en/part2.pdf)|
 |4:30|END|
 
 ## Topics covered in Author Carpentry 
