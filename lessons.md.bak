@@ -12,7 +12,7 @@
 | ---------------- |:---: | :----: | ------------- |
 | Online introduction to LaTeX | [Part 1][latex-course], [Part 2][latex-coursep2] | [Repo][latex-course2] | John Lees-Miller |
 
-[dois-citation-data]: https://authorcarpentry.github.io/dois-citation-data
+[dois-citation-data]: https://kmiller621.github.io/dois-citation-data/
 [dois-citation-data2]: https://github.com/authorcarpentry/dois-citation-data
 [orcid-profile]: https://authorcarpentry.github.io/orcid-profile
 [orcid-profile2]: https://github.com/authorcarpentry/orcid-profile

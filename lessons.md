@@ -14,9 +14,9 @@
 
 [dois-citation-data]: https://kmiller621.github.io/dois-citation-data/
 [dois-citation-data2]: https://github.com/authorcarpentry/dois-citation-data
-[orcid-profile]: https://authorcarpentry.github.io/orcid-profile
+[orcid-profile]: https://kmiller621.github.io/orcid-profile
 [orcid-profile2]: https://github.com/authorcarpentry/orcid-profile
-[orcid-and-impact]: https://authorcarpentry.github.io/orcid-and-impact
+[orcid-and-impact]: https://kmiller621.github.io/orcid-and-impact
 [orcid-and-impact2]: https://github.com/authorcarpentry/orcid-and-impact
 [latex-course]: https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)
 [latex-coursep2]: https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2)
