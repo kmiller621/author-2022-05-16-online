@@ -40,7 +40,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 |--|--|
 |2:30PM EDT| [Persistent access for research outputs with DOIs](https://kmiller621.github.io/dois-citation-data/) |
 |3:30|BREAK|
-|3:45|[Establishing Scholarly Identity with ORCID](https://authorcarpentry.github.io/orcid-profile/)|
+|3:45|[Establishing Scholarly Identity with ORCID](https://kmiller621.github.io/orcid-profile/)|
 |4:30|END|
 
 ### Day 2
