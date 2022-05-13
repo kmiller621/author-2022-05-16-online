@@ -27,6 +27,15 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 **Accessibility:**  We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 
+**Set up Your Workspace:** Like other Carpentries workshops, you will be learning by "coding along" with the Instructors. To do this, you will need to have both the window for the tool you will be learning about (a terminal, RStudio, your web browser, etc..) and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options:
+
+- Two monitors: If you have two monitors, plan to have the tool you are learning up on one monitor and the video conferencing software on the other.
+- Two devices: If you don't have two monitors, do you have another device (tablet, smartphone) with a medium to large sized screen? If so, try using the smaller device as your video conference connection and your larger device (laptop or desktop) to follow along with the tool you will be learning about.
+- Divide your screen: If you only have one device and one screen, practice having two windows (the video conference program and one of the tools you will be using at the workshop) open together. How can you best fit both on your screen? Will it work better for you to toggle between them using a keyboard shortcut? Try it out in advance to decide what will work best for you.
+- This [blog post](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/) includes detailed information on how to set up your screen to follow along during the workshop.
+
+**Collaborative Notes:** [Notebook](https://nistgov.sharepoint.com/sites/NISTTechnicalSeries/_layouts/OneNote.aspx?id=%2Fsites%2FNISTTechnicalSeries%2FShared%20Documents%2FGeneral%2Fauthor-2022-05-16-online&wd=target%28New%20Section%201.one%7CE3E55756-C1F8-4C1A-9247-5B3F3E8163DD%2FMay%2016-17%20Author%20Carpentry%7C85EF84AF-7AE2-4A7F-9F59-648BD873A63B%2F%29) attached to MS Teams meeting.
+
 **Contact:**  Please email  [kathryn.miller@nist.gov](mailto:kathryn.miller@nist.gov)  for more information.
 
 **Roles:**  To learn more about the roles at the workshop (who will be doing what), refer to  [our Workshop FAQ](https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop).
