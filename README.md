@@ -23,7 +23,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 **When:**  May 16-17, 2022.  [Add to your Google Calendar.](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Author%20Carpentry%20Workshop&dates=20220516/20220517&trp=false&sprop&sprop=name:&sf=true&output=xml&location=online&details=Author%20Carpentry%20Workshop%20at%20National%20Institute%20of%20Standards%20and%20Technology%20(NIST))
 
-**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([DOI](https://kmiller621.github.io/dois-citation-data/#requirements), [ORCID](https://kmiller621.github.io/orcid-profile/#requirements), [LaTeX](/latex.md)).
+**Requirements:**  Participants must have access to a computer with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have the data and software packages installed for each lesson ([DOI](https://kmiller621.github.io/dois-citation-data/#requirements), [ORCID](https://kmiller621.github.io/orcid-profile/#requirements), [LaTeX](/latex.html)).
 
 **Accessibility:**  We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 
